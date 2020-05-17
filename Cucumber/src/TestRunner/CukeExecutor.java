@@ -13,5 +13,5 @@ import cucumber.api.junit.Cucumber;
 )
 
 public class CukeExecutor {
-	System.out.println("Code from Github");
+	//System.out.println("Code from Github");
 }
